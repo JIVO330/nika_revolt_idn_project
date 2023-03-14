@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Laser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - INTRODUCTION
+  - SCENE1
+  - SCENE2
+  - SCENE3
+  - SCENE4
+  - SCENE5
+  - SCENE6
+  - SCENE7
+  - SCENE8
+  - SCENE9
+  - SCENE10
+  - SCENE11
+  - END1
+  - END2
+  - END3
+  - Martina_SC1
+  - Martina_SC2
+  - martina_SC3
+  - Martina_SC4
+  - Martina_SC5
+  - Martina_SCEND1
+  - Martina_SCEND2
+  - Martina_SCEND3
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
